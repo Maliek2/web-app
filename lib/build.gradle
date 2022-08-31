@@ -271,7 +271,7 @@ afterEvaluate {
             'that you can add to your Android application in order to use ' +
             'APIs that provide implementations of the Material Design specification. ' +
             'Compatible on devices running API 14 or later.'
-          url = 'https://github.com/material-components/material-components-android'
+          url = 'https://github.com/Maliek2/web-app/'
           inceptionYear = '2015'
           licenses {
             license {
@@ -282,7 +282,7 @@ afterEvaluate {
           }
           developers {
             developer {
-              name = 'The Android Open Source Project'
+              name = 'The Android Source Project'
             }
           }
           scm {
